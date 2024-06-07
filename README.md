@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋, This is Judy Cho, a developer who codes dreams.
 
 <!--
 **cestjeudi/cestjeudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
